@@ -1,1 +1,78 @@
-{}
+{
+  "name": "Economía de Nekotina",
+  "version": "4.3.0",
+  "pages": [
+    {
+      "title": "🌐 __**Global**__",
+      "content": "Nekotina posee un módulo de economía global y centralizado. Esto quiere decir que tu balance e inventario están disponibles en todos los servidores donde la bot esté presente."
+    },
+    {
+      "title": "{{coins}} __**¿Cómo puedo ganar coins?**__",
+      "content": [
+        "Hay varios con los cuales puedes comenzar tu aventura y ganar coins rápido:",
+        "`{{prefix}}daily`, `{{prefix}}work`, `{{prefix}}crime`, `{{prefix}}mine`, `{{prefix}}fish`"
+      ]
+    },
+    {
+      "title": "{{coins}} __**Billetera**__",
+      "content": "Es lo que tienes en mano y puedes utilizar para comprar. La cantidad que puedes acumular es infinita, pero es susceptible a perderse si se sufre un accidente (muerte)."
+    },
+    {
+      "title": "{{bank}} __**Banco**__",
+      "content": "Es el lugar donde tu balance estará a salvo. Su capacidad inicial es bastante limitada e irá aumentando a medida que interactúas con la bot. No puedes comprar con el balance que tienes guardado en el banco, primero tendrás que hacer un retiro con el comando `{{prefix}}withdraw`."
+    },
+    {
+      "title": "{{nekostar}} __**Experiencia**__",
+      "content": "Otro aspecto del módulo de economía es que el uso que le des a la bot está ligado a cuantas coins permite almacenar tu banco. Algunos comandos de este módulo otorgan \"experiencia\" que se suma directamente a la capacidad máxima del banco."
+    },
+    {
+      "title": "💀 __**Muerte**__",
+      "content": "Es posible morir en el módulo de economía. Morir significa perder todas las coins que no estén a salvo en el banco y además se pierden items de la mochila al azar. Recibirás una notificacion con la lista de cosas que perdiste."
+    },
+    {
+      "title": "{{shopping}} __**Tienda**__",
+      "content": "El módulo de economía ofrece una tienda centralizada donde todos pueden comprar cualquier item disponible en ella. Los items comprados se envían directamente a tu mochila a la cual puedes acceder con `{{prefix}}bag`"
+    },
+    {
+      "title": "🎒 __**Mochila**__",
+      "content": [
+        "La mochila es el almacén donde se encuentran todos tus items. Puedes ver la lista y cantidad de cada uno con `{{prefix}}bag`",
+        "\nCiertos items pueden ser \"usados\" con `{{prefix}}use <item>`.",
+        "Para ver que hace cada item, puedes usar `{{prefix}}iteminfo <item>`"
+      ]
+    },
+    {
+      "title": "{{loot}} __**Cajitas de loots**__",
+      "content": "Las cajitas de loots (Loot box) contienen muchos items de gran valor. Tienen la probabilidad de aparecer al estar usando los comandos de economía y luego de contestar correctamente podrás recibirla."
+    },
+    {
+      "title": "🖌️ __**Craft**__",
+      "content": [
+        "Con Nekotina es posible formar items a partir de materiales.",
+        "Los materiales puedes obtenerlos de los comandos `{{prefix}}fish`, `{{prefix}}mine` y `{{prefix}}pet explore`",
+        "\nEl crafteo posee dos categorías, **Forja** y **Mezcla**.",
+        "\n__Forja__",
+        "La forja permite la creación de items completos o más materiales y se requiere de un **Anvil**. Cada anvil tiene una probabilidad de éxito según su calidad. Si la creación del item falla, el anvil y los materiales se pierden durante el proceso.",
+        "\n__Mezcla__",
+        "La mezcla permite la creación de pociones. Las pociones son potenciadores (buffs) temporales que puedes utilizar en tí o en tu mascota. Se requiere de un **Mortero** y a diferencia de la forja, la creación de pociones tiene un 100% de probabilidad de éxito. Sin embargo, el mezclador puede romperse durante el proceso.",
+        "\n__¿Cómo elijo cuál anvil o mortero usar?__",
+        "El comando `{{prefix}}craft` soporta argumentos para elegir el item:",
+        "\n`{{prefix}}craft <item> --steel`\n`{{prefix}}craft <item> --gold`\n`{{prefix}}craft <item> --galac`"
+      ]
+    },
+    {
+      "title": "🗺️ __**Zonas**__",
+      "content": [
+        "El concepto de zona es una de las características únicas que posee Nekotina en cuanto a módulo de economía. Fueron creadas con la intención de ofrecer una mayor variedad al contenido de los comandos `{{prefix}}fish`, `{{prefix}}mine` y `{{prefix}}pet explore`.",
+        "\nLas zonas son \"lugares\" que tú o tu mascota visitan en busca de items y coins. Todas estas tienen recompensas, riesgos y requerimientos de ingreso distintos.",
+        "__Para revisar en detalle cada zona__",
+        "Los comandos anteriormente mencionados contienen una lista con todas las zonas con las que ellos pueden interactuar. `{{prefix}}fish zones`, `{{prefix}}mine zones` y `{{prefix}}pet zones`",
+        "🐟 __**Pesca**__",
+        "Las especies marinas son una fuente básica de coins. Puedes ir en busca de ellas cada **5 minutos** y según lo que atrapes, la ganancia puede mejorar.",
+        "Cada caña de pesca tiene una probabilidad de romperse. En caso de que esto suceda, puedes comprar otra en la tienda.",
+        "⛏️ __**Minería**__",
+        "La minería es otra fuente de coins, pero adicionalmente puedes obtener tesoros perdidos y ganar mejores items. Parece similar a la pesca, pero en cuanto a ganancias las minas dan mejores resultados a cambio de un mayor riesgo. Todas las minas tienen asociadas una **probabilidad de derrumbe**, lo que causa la muerte si esto ocurre."
+      ]
+    }
+  ]
+}
