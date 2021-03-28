@@ -54,11 +54,11 @@
       ]
     },
     {
-      "name": "Forja",
+      "name": "{{anvil}} Forja",
       "value": "La forja permite la creación de items completos o más materiales y se requiere de un **Anvil**. Cada anvil tiene una probabilidad de éxito según su calidad. Si la creación del item falla, el anvil y los materiales se pierden durante el proceso."
     },
     {
-      "name": "Mezcla",
+      "name": "{{mortero}} Mezcla",
       "value": "La mezcla permite la creación de pociones. Las pociones son potenciadores (buffs) temporales que puedes utilizar en tí o en tu mascota. Se requiere de un **Mortero** y a diferencia de la forja, la creación de pociones tiene un 100% de probabilidad de éxito. Sin embargo, el mezclador puede romperse durante el proceso."
     },
     {
@@ -75,17 +75,40 @@
       "value": [
         "El concepto de zona es una de las características únicas que posee Nekotina en cuanto a módulo de economía. Fueron creadas con la intención de ofrecer una mayor variedad al contenido de los comandos `{{prefix}}fish`, `{{prefix}}mine` y `{{prefix}}pet explore`.",
         "Las zonas son \"lugares\" que tú o tu mascota visitan en busca de items y coins. Todas estas tienen recompensas, riesgos y requerimientos de ingreso distintos.",
-        "__Para revisar en detalle cada zona__",
+        "\n__Para revisar en detalle cada zona__",
         "Los comandos anteriormente mencionados contienen una lista con todas las zonas con las que ellos pueden interactuar. `{{prefix}}fish zones`, `{{prefix}}mine zones` y `{{prefix}}pet zones`"
       ]
     },
     {
       "name": "🐟 Pesca",
-      "value": "Las especies marinas son una fuente básica de coins. Puedes ir en busca de ellas cada **5 minutos** y según lo que atrapes, la ganancia puede mejorar."
+      "value": "Las especies marinas son una fuente básica de coins. Puedes ir en busca de ellas y según lo que atrapes, la ganancia puede mejorar. La mayoría de las zonas de pesca tienen una **probabilidad de ataque del megalodon**, lo que causa la muerte si esto ocurre, a menos que tengas 💓 Vida extra activa."
     },
     {
       "name": "⛏️ Minería",
-      "value": "La minería es otra fuente de coins, pero adicionalmente puedes obtener tesoros perdidos y ganar mejores items. Parece similar a la pesca, pero en cuanto a ganancias las minas dan mejores resultados a cambio de un mayor riesgo. Todas las minas tienen asociadas una **probabilidad de derrumbe**, lo que causa la muerte si esto ocurre."
+      "value": "La minería es otra fuente de coins, pero adicionalmente puedes obtener tesoros perdidos y ganar mejores items. Parece similar a la pesca, pero en cuanto a ganancias las minas dan mejores resultados a cambio de un mayor riesgo. La mayoría de las minas tienen asociadas una **probabilidad de derrumbe**, lo que causa la muerte si esto ocurre, a menos que tengas 💓 Vida extra activa."
+    },
+    {
+      "name": "🐱 Mascotas",
+      "value": [
+        "Son tus fieles acompañantes que requieren cuidados básicos y pueden salir a explorar en busca de aventuras e items",
+        "\nHay una inmensa variedad de mascotas con estadísticas distintas, además de que todas tienen un factor aleatorio que las hace únicas. Puedes incrementar sus estadísticas subiendo de nivel y entrenándola.",
+        "\nEl nivel máximo que una mascota puede alcanzar es 30 y la experiencia es obtenida al ser cuidada y regresar de una exploración."
+      ]
+    },
+    {
+      "name": "🗺️ Zonas de exploración",
+      "value": [
+        "Son el equivalente a la minería y pesca y es al lugar donde puedes enviar a tu mascota por items.",
+        "\nAlgunas zonas de exploración tienen riesgo de causar enfermedades, las cuales deben ser curadas con ciertas pócimas. Una mascota enferma no puede salir a explorar.",
+        "\nAl momento de regresar de una exploración, existe la pequeña posibilidad de que la mascota sea atacada por otra y su dueño deberá intervenir para salvarla."
+      ]
+    },
+    {
+      "name": "🤍 Cuidados",
+      "value": [
+        "Si la mascota no es atendida por más de un día en cuanto a sus cuidados básicos, esta huirá y será necesario utilizar una flauta para llamarla de regreso a cambio de una penalización de niveles.",
+        "\nPuedes revisar todos los comandos de mascotas con: `{{prefix}}help pet`"
+      ]
     }
   ]
 }
