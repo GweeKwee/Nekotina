@@ -1107,7 +1107,7 @@
     "2. El comando !purge ahora permite eliminar 100 mensajes de un usuario en específico.",
     "3. Los comandos !lock y !unlock ahora permiten seleccionar el canal a cerrar. Además con el primero se puede agregar el motivo, el cuál se mostrará en el embed.",
     "\n# Economía",
-    "1. Los siguientes comandos ahora tienen un cooldown de 3 segundos: !crime, !buy y !sell",
+    "1. Los siguientes comandos ahora tienen un cooldown de 3 segundos: !craft, !buy y !sell",
     "2. El cooldown de !claim ahora es global y se reinicia todos los días a las 6AM GMT-3.",
     "3. El comando !claim tiene probabilidad de dar una cajita extra de evento cuando las loots están disponibles.",
     "4. Ahora es posible establecer un canal y mención para los avisos de babel.",
