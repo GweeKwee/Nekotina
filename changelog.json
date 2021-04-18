@@ -1121,5 +1121,12 @@
     "\n# Corrección de errores",
     "1. La bot ya no ejecuta los comandos si no tiene el permiso de escribir en el canal.",
     "2. El request handler ya no queda atorado si se agrega un motivo con carácteres raros al momento de sancionar."
+  ],
+  "4.4.0": [
+    "# Resumen",
+    "1. Nuevos comandos configurables para moderación personalizada.",
+    "2. Nivel de perfiles y clubs reiniciados.",
+    "3. Tax fijo de 5% por transacción.",
+    "4. Optimizaciones varias a la base de datos."
   ]
 }
