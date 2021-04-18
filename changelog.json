@@ -1126,7 +1126,9 @@
     "# Resumen",
     "1. Nuevos comandos configurables para moderación personalizada.",
     "2. Nivel de perfiles y clubs reiniciados.",
-    "3. Tax fijo de 5% por transacción.",
-    "4. Optimizaciones varias a la base de datos."
+    "3. La experiencia ahora se gana a través de comandos de economía.",
+    "4. El precio máximo de venta de los items con la bot es de 5,000 coins.",
+    "5. Tax fijo de 5% por transacción.",
+    "6. Optimizaciones varias a la base de datos."
   ]
 }
