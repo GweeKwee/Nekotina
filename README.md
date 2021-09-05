@@ -4,36 +4,102 @@
     <img src="https://i.imgur.com/KVxuj8Z.png">
 </p>
 
-Completamente en español.
+> Sitio web: [nekotina.com](https://nekotina.com)  
+Contacto: gwee@nekotina.com
 
-Potenciada por más de 500 comandos, Nekotina quiere incentivar la actividad en tu servidor.
+**Completamente en español.**
+
+Potenciada por más de 500 comandos, Nekotina quiere incentivar la actividad en tu servidor.   
 Invítala a tu servidor y ten la mejor calidad de música, economía y todo lo que puedas imaginar completamente en español.
 
 ## Módulos
 
-✅ Comandos de acción y reacción con más de 5000 gifs de anime.
+### 🎭 Roleplay
+- Comandos de interacción.  
+- Comandos de reacción.     
+- Más de 5000 gifs de anime.
 
-✅ Reproductor de música con integración de Spotify y Listen.moe.
+### 🎧 Música
+- Reproduce canciones de cualquier fuente que se te pueda ocurrir.  
+- Audio en alta calidad.  
+- Soporte con Spotify.  
+- Modo y rol de DJ.  
+- Integración con Listen.moe.
 
-✅ Starboard
+### ⭐ Starboard
+- Mensajes destacables.     
+- Canal, estrellas, embed y emoji configurables.  
+- Especifica canales y roles para mantener un orden.
 
-✅ Matrimonios globales.
+### ✨ Niveles
+- Ranking global.  
+- Perfiles personalizables y globales.  
+- Experiencia por participación.  
+- Mensajes de levelup (desactivables). 
 
-✅ Clubs globales.
+### 💰 Economía Global
+- Tienda centralizada y global.  
+- Balance y ranking global.  
+- Múltiples comandos de interacción (gift, share, steal, etc).  
+- Minería y pesca.  
+- Quest diarias.  
+- Sistema de profesiones (próximamente).  
+- Slot Machine.  
 
-✅ Completo juego de economía global con ranking y perfiles.
+### 💸 Economía por Servidor
+- Tienda, Balance y ranking de servidor.  
+- Items con posibilidad de otorgar roles.  
+- Emoji personalizable.  
+- Ganancia de coins a través de la economía global.  
+- Slot Machine de servidor.
 
-✅ Economía por servidor con gestión de roles e items.
+### 🐱 Mascotas
+- Niveles y stats.  
+- Exploración.  
+- Quest diarias   
+- Más de 128 mascotas capturables   
+- Mascotas personalizadas
 
-✅ Moderación con casos, warns, ban, kick, mute y tareas automáticas.
+### 💍 Matrimonios
+- Sistema global.  
+- Listado de propuestas pendientes.  
+- Integración con el módulo de economía. 
 
-✅ Potente registro de mensajes editados/borrados, sanciones, anti-invitaciones, y mucho más.
+### 🔶 Clubs
+- Creación y administración de clubs.  
+- Sistema de niveles.  
+- Lista de integrantes.  
+- Ranking Global.  
 
-✅ Recordatorios, sugerencias, confesiones y tags.
+### 🔨 Moderación
+- Ban, softban, forceban, kick, mute.   
+- Asignación de roles.  
+- Cantidad de warns configurable.
+- Sanción automática por acumulación de warns configurable.  
+- Respeto con permisos y jerarquías de Discord.
 
-✅ Configuración avanzada para reaction-roles, bienvenidas, despedidas, agradecimientos de boosteos y mucho más.
+### 📖 Registros
+- Potente registro de eventos (logs).  
+- Mensajes editados y borrados.   
+- Sanciones aplicadas.  
+- Invitaciones de servidor no deseadas.  
 
-✅ Comandos de anime, diversión y misceláneos.
+### 📝 Utilidades
+- Recordatorios.  
+- Sugerencias.  
+- Tags / Etiquetas.
+
+### ⚙️ Configuración
+- Mensajes de bienvenidas, despedidas y boosteos.   
+- Auto publicaciones.  
+- Deshabilitación de comandos por servidor, canales, roles y usuarios.    
+- Mensajes y embeds configurables al sancionar.  
+
+### 🎮 Diversión
+- Confesiones.   
+- Imágenes.   
+- 8Ball.   
+- Waifus y Husbandos.
 
 ## Soporte
 **Nuestro servidor oficial de soporte: [LINK](https://discordapp.com/invite/nekotina)**
@@ -41,3 +107,5 @@ Invítala a tu servidor y ten la mejor calidad de música, economía y todo lo q
 También recibimos sugerencias en nuestro servidor de soporte. :3
 
 > Creada con ❤️ por Gwee & Kwee 
+
+<img src="https://cdn.discordapp.com/attachments/644484615167541261/880624757261881414/nekotina_dango.gif">
